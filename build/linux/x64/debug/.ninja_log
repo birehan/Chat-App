@@ -1,0 +1,80 @@
+# ninja log v5
+5093	5195	0	CMakeFiles/install.util	fb8d0393330bad1b
+12319	13153	1670483950050164322	CMakeFiles/chat.dir/main.cc.o	975f4549302608f5
+2	4439	0	flutter/_phony_	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/libflutter_linux_gtk.so	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_view.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	da9ce36245ad0325
+4947	5093	1670498970467117979	intermediates_do_not_run/chat	a215c3731cdc269a
+4440	4915	1670498970287110913	CMakeFiles/chat.dir/flutter/generated_plugin_registrant.cc.o	5b762f8adbcd58a9
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_engine.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	da9ce36245ad0325
+4440	4946	1670498970319112169	CMakeFiles/chat.dir/my_application.cc.o	c3093c0f00ad04d9
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_value.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	da9ce36245ad0325
+2	4439	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/libflutter_linux_gtk.so	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_engine.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_value.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_view.h	da9ce36245ad0325
+3	3120	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	da9ce36245ad0325
+3	3120	0	flutter/_phony_	da9ce36245ad0325
+3121	3596	1670499040205758962	CMakeFiles/chat.dir/flutter/generated_plugin_registrant.cc.o	5b762f8adbcd58a9
+3121	3615	1670499040225759693	CMakeFiles/chat.dir/my_application.cc.o	c3093c0f00ad04d9
+3615	3757	1670499040369764955	intermediates_do_not_run/chat	a215c3731cdc269a
+3757	3874	0	CMakeFiles/install.util	fb8d0393330bad1b
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/libflutter_linux_gtk.so	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_engine.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_value.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/fl_view.h	da9ce36245ad0325
+5	3232	0	/home/babi/Desktop/Flutter projects/chat/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	da9ce36245ad0325
+5	3232	0	flutter/_phony_	da9ce36245ad0325
+3232	4960	1670499233980239853	CMakeFiles/chat.dir/flutter/generated_plugin_registrant.cc.o	5b762f8adbcd58a9
+3232	5015	1670499234052242064	CMakeFiles/chat.dir/my_application.cc.o	c3093c0f00ad04d9
+5015	5458	1670499234496255694	intermediates_do_not_run/chat	a215c3731cdc269a
+5458	5576	0	CMakeFiles/install.util	fb8d0393330bad1b

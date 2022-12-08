@@ -1,0 +1,4 @@
+#Thu Dec 08 14:31:48 EAT 2022
+base.0=/home/babi/Desktop/Flutter projects/chat/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
